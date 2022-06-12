@@ -6,5 +6,6 @@ public class Loader {
         dog1.feed(200.0);
         dog1.woof();
         System.out.printf("the weight Dog N1 after feeding: %.2f %n", dog1.getWeight());
+        System.out.println("First commit");
     }
 }
